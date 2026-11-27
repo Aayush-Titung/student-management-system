@@ -1,0 +1,2 @@
+# Only the deployment server is external; the application uses Python's standard library.
+gunicorn>=23,<24
