@@ -1,4 +1,4 @@
-# Student Management System — web edition
+# Student Management System  web edition
 
 A browser-based academic demonstration of Python lists, dictionaries, linear search, CRUD operations and CGPA statistics. `student_logic.py` is retained unchanged from the original project. The HTML/CSS/JavaScript client calls a Python WSGI service; it does not duplicate the data algorithms.
 
